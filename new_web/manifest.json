@@ -1,0 +1,55 @@
+{
+    "name": "YKWEBs",
+    "short_name": "YKWEBs",
+    "description": "Ultimate Coding Guide",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "images/manifest/48x48.png",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose":"maskable"
+        },
+        {
+            "src": "images/manifest/72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "images/manifest/96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "images/manifest/144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "images/manifest/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "images/manifest/icon-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "images/manifest/icon-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "images/manifest/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
+
+
